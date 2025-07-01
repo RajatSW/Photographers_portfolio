@@ -26,20 +26,6 @@ Photog Portfolio is a sleek and immersive photography portfolio website built fo
 
 ---
 
-## 🖼️ Live Demo
-
-Feel free to deploy it on GitHub Pages or Netlify and update this section with your link:
-
-👉 [Live Site](#)will be available soon
-
----
-
-## 📷 Screenshots
-
-_Add preview GIF or screenshots here if available._will be available soon
-
----
-
 ## 🛠️ Setup Instructions
 
 1. Open the index.html file in your browser.
