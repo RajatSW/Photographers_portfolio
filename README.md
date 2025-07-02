@@ -5,7 +5,7 @@ Photog Portfolio is a sleek and immersive photography portfolio website built fo
 ---
 ## 🔍 Preview
 
-![imgage alt]()
+![imgage alt](https://github.com/RajatSW/photog_portfolio/blob/1a55ba9e003b272c0432d362704cb3d29f5c4f02/photogimg.png)
 
 ---
 
