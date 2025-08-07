@@ -1,6 +1,6 @@
 # 📸 Photog Portfolio
 
-Photog Portfolio is a sleek and immersive photography portfolio website built for photographers, cinematographers, and visual artists looking to showcase their work in style. With fluid transitions and dedicated sections for different photography genres, this single-page app is a perfect fit for personal branding and client presentations.
+Photog Portfolio is a sleek and immersive photography portfolio website built for photographers, cinematographers, and visual artists looking to showcase their work in style. With fluid transitions and dedicated sections for various photography genres, this single-page app is an ideal fit for personal branding and client presentations.
 
 ---
 ## 🔍 Preview
